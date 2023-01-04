@@ -1,4 +1,18 @@
-# ABM
+# Studying the Impact of Transportation During Lockdown on the Spread of COVID-19 Using Agent-based Modeling
+Shikha Bhat, Ruturaj Godse, Shruti Mestry, and Vinayak Naik
+
+The COVID-19 pandemic has posed challenges for governments concerning lockdown policies and trans-
+portation plans. The exponential rise in infections has highlighted the importance of managing restrictions on
+travel. Previous research around this topic has not been able to scale and address this issue for India, given
+its diversity in transportation networks and population across different states. In this study, we analyze the
+patterns of the spread of infection, recovery, and death specifically for the state of Goa, India, for twenty-eight
+days. Using agent-based simulations, we explore how individuals interact and spread the disease when travel-
+ing by trains, flights, and buses in two significant settings - unrestricted and restricted local movements. Our
+findings indicate that trains cause the highest spread of infection within the state, followed by flights and then
+buses. Contrary to what may be assumed, we find that the effect of combinations of all modes of transport is
+not additive. With multiple modes of transport activities, the cases rise exponentially faster. We present equiv-
+alence points for the number of vehicles running per day in unrestricted and restricted movement settings, e.g.,
+one train a day in unrestricted movement spreads the disease as eight trains a day in restricted movement
 
 ## Running the Code
 There are two ways to run the simulation - with the GUI and without the GUI.
