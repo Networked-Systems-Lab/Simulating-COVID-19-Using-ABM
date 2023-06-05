@@ -41,7 +41,7 @@ bash netlogo-headless.sh --model <netlogo_file_path> --experiment <experiment_na
 
 ## Publication
 
-Please find our research paper published in Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART · Feb 24, 2023 [here](https://www.scitepress.org/PublicationsDetail.aspx?ID=Ermi1uq5VHY=&t=1) and the PDF version [here](https://github.com/Networked-Systems-Lab/Simulating-COVID-19-Using-ABM/blob/main/_Short_ICAART__COVID_19_Simulations.pdf). We request the reader to cite our paper if they find our work useful.
+Please find our research paper published in Proceedings of the 15th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART · Feb 24, 2023 [here](https://www.scitepress.org/PublicationsDetail.aspx?ID=Ermi1uq5VHY=&t=1) and the PDF version [here](https://github.com/Networked-Systems-Lab/Simulating-COVID-19-Using-ABM/blob/main/ICAART_2023_194_CR%20(2).pdf). We request the reader to cite our paper if they find our work useful.
 
 ```
 @conference{icaart23,
